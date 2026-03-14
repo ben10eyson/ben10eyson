@@ -64,7 +64,7 @@ Notion • Streamlit • Tableau • Power BI
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/rudraksh-ganjoo-a791a6290 " target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
