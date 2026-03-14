@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rudraksh Ganjoo</h1>
+<h3 align="center">🎓 Final Year AI&DS Student (SPPU) | 💡 Data Analysis & Web Development Enthusiast</h3>
 
-<!--
-**ben10eyson/ben10eyson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+📍 Pune, India
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a passionate and dedicated **Artificial Intelligence & data science student** with hands-on experience in **software development, machine learning, and data visualization**.
+
+I enjoy building **user-centric digital solutions** and exploring how **AI, Data Analytics, and Web Technologies** can create impactful real-world applications.
+
+⭐ *“Strive to build things that make a difference — code, create, and keep improving!”*
+
+---
+
+# 🧠 Technical Skills
+
+## 💻 Frontend & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,js,bootstrap" />
+</p>
+
+## 📊 Data Analysis & Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Python • Pandas • NumPy • Matplotlib • Tableau • Power BI • MS Excel • Jupyter Notebook
+
+## 🔢 Programming & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mongodb,mysql,git,github" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ben10eyson&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ben10eyson&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel" />
+</p>
+
+Notion • Streamlit • Tableau • Power BI
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rudrakshganjoo15@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/ben10eyson">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+⭐ From [Rudraksh Ganjoo](https://github.com/ben10eyson)
