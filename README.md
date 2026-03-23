@@ -60,7 +60,7 @@ I enjoy building **user-centric digital solutions** and exploring how **AI, Data
 # ⚙️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel,Notion,Streamlit,Tableau,Power BI" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel,notion,streamlit,tableau" />
 </p>
 
 
