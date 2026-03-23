@@ -25,11 +25,17 @@ I enjoy building **user-centric digital solutions** and exploring how **AI, Data
 </p>
 
 ## 📊 Data Analysis & Visualization
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=pandas" title="Pandas" />
+  <img src="https://skillicons.dev/icons?i=numpy" title="NumPy" />
+  <img src="https://skillicons.dev/icons?i=matplotlib" title="Matplotlib" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" width="45" height="45" />
+  <img src="https://skillicons.dev/icons?i=excel" title="MS Excel" />
+  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook" />
 </p>
 
-Python • Pandas • NumPy • Matplotlib • Tableau • Power BI • MS Excel • Jupyter Notebook
 
 ## 🔢 Programming & Databases
 <p>
