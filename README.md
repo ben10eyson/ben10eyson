@@ -60,19 +60,15 @@ I enjoy building **user-centric digital solutions** and exploring how **AI, Data
 # ⚙️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,figma,vercel,Notion,Streamlit,Tableau,Power BI" />
 </p>
 
-Notion • Streamlit • Tableau • Power BI
 
 ---
 
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/rudraksh-ganjoo-a791a6290 " target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
 <a href="mailto:rudrakshganjoo15@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
